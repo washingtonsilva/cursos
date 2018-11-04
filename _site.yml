@@ -4,7 +4,7 @@ description: |
   Bem vindo ao blog Estatíscas Educacionais do IFMG - Campus Formiga, aqui 
   são publicados relatórios e estatisticas sobre os cursos ofertados pelo 
   campus.
-output_dir: "."
+output_dir: "_site"
 navbar:
   right:
     - text: "Principal"
