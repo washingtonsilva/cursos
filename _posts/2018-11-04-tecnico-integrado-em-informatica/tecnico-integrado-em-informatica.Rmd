@@ -102,7 +102,7 @@ Iniciais no Ano Letivo}})*100$
 
 # 2. Alunos Matriculados
 
-```{r, eval = TRUE, message = FALSE, warning = FALSE}
+```{r, eval = TRUE, message = FALSE, warning = FALSE, preview = TRUE}
 
 p1 <- ggplot(data = info, aes(x = periodo_letivo, y = matriculas_iniciais, 
              group = curso)) + geom_point() + geom_line() 
