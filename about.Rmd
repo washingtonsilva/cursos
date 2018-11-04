@@ -1,8 +1,6 @@
 ---
 title: "Sobre este blog"
-description: |
-  Blog criado e mantido pela Diretoria-Geral 
-  do [IFMG - Campus Formiga](https://formiga.ifmg.edu.br/).
+description: "Blog criado e mantido pela Diretoria-Geral \n do [IFMG - Campus Formiga](https://formiga.ifmg.edu.br/).\n"
 ---
 
 ```{r setup, include=FALSE}
