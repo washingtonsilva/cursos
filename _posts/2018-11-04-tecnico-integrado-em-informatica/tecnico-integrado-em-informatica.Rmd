@@ -1,14 +1,14 @@
 ---
-title: "Estatísticas Educacionais: Curso Técnico Integrado em Informática"
+title: "Indicadores Educacionais: Curso Técnico Integrado em Informática"
 description: |
-  Relatório com estatísticas educacionais d cursos ofertados pelo 
+  Relatório com estatísticas educacionais de cursos ofertados pelo 
   IFMG - Campus Formiga
 author:
-  - name: Washington Santos Silva 
-    url: https://washingtonsilva.github.io/
+  - name: Diretoria-Geral 
+    url: https://formiga.ifmg.edu.br/
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
-  - name: Elaine Belo Veloso Silva 
+  - name: Coordenadoria de Registro e Controle Acadêmico 
     url: https://formiga.ifmg.edu.br/
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
@@ -79,11 +79,6 @@ Nesta primeira etapa são disponibilizados **indicadores globais da evolução
 dos alunos matriculados, concluintes, retidos e evadidos**, além das **taxas 
 de retenção e evasão**, para cada um dos cursos técnicos integrados ofertados 
 atualmente pelo campus. 
-
-Nas próximas etapas pretende-se disponibilizar um aplicativo web para a 
-visualização dos dados e indicadores por turma de ingressantes de cada curso, 
-além de captar os efeitos da mudança de duração de 4 para 3 anos dos cursos 
-técnicos integrados.
 
 # 2.  Definição dos indicadores propostos:
 

@@ -1,59 +1,59 @@
 [
   {
-    "path": "posts/2018-11-04-tcnico-integrado-em-admnistrao/",
+    "path": "posts/2018-11-04-tecnico-integrado-em-admnistrao/",
     "title": "Indicadores Educacionais: Curso Técnico Integrado em Administração",
     "description": "Relatório com estatísticas educacionais de cursos ofertados pelo \nIFMG - Campus Formiga",
     "author": [
       {
-        "name": "Washington Santos Silva",
-        "url": "https://washingtonsilva.github.io/"
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
       },
       {
-        "name": "Elaine Belo Veloso Silva",
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
         "url": "https://formiga.ifmg.edu.br/"
       }
     ],
     "date": "2018-04-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2018-11-04T15:44:49-02:00"
+    "last_modified": "2018-11-04T18:10:10-02:00"
   },
   {
-    "path": "posts/2018-11-04-tcnico-integrado-em-eletrotcnica/",
-    "title": "Estatísticas Educacionais: Curso Técnico Integrado em Eletrotécnica",
-    "description": "Relatório com estatísticas educacionais d cursos ofertados pelo \nIFMG - Campus Formiga",
+    "path": "posts/2018-11-04-tecnico-integrado-em-eletrotcnica/",
+    "title": "Indicadores Educacionais: Curso Técnico Integrado em Eletrotécnica",
+    "description": "Relatório com estatísticas educacionais de cursos ofertados pelo \nIFMG - Campus Formiga",
     "author": [
       {
-        "name": "Washington Santos Silva",
-        "url": "https://washingtonsilva.github.io/"
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
       },
       {
-        "name": "Elaine Belo Veloso Silva",
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
         "url": "https://formiga.ifmg.edu.br/"
       }
     ],
     "date": "2018-04-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2018-11-04T15:49:17-02:00"
+    "last_modified": "2018-11-04T18:11:12-02:00"
   },
   {
     "path": "posts/2018-11-04-tecnico-integrado-em-informatica/",
-    "title": "Estatísticas Educacionais: Curso Técnico Integrado em Informática",
-    "description": "Relatório com estatísticas educacionais d cursos ofertados pelo \nIFMG - Campus Formiga",
+    "title": "Indicadores Educacionais: Curso Técnico Integrado em Informática",
+    "description": "Relatório com estatísticas educacionais de cursos ofertados pelo \nIFMG - Campus Formiga",
     "author": [
       {
-        "name": "Washington Santos Silva",
-        "url": "https://washingtonsilva.github.io/"
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
       },
       {
-        "name": "Elaine Belo Veloso Silva",
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
         "url": "https://formiga.ifmg.edu.br/"
       }
     ],
     "date": "2018-04-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2018-11-04T16:05:07-02:00"
+    "last_modified": "2018-11-04T18:12:15-02:00"
   }
 ]

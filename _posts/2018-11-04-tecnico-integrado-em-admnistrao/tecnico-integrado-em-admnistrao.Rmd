@@ -1,14 +1,14 @@
 ---
-title: "Estatísticas Educacionais: Curso Técnico Integrado em Eletrotécnica"
+title: "Indicadores Educacionais: Curso Técnico Integrado em Administração"
 description: |
-  Relatório com estatísticas educacionais d cursos ofertados pelo 
+  Relatório com estatísticas educacionais de cursos ofertados pelo 
   IFMG - Campus Formiga
 author:
-  - name: Washington Santos Silva 
-    url: https://washingtonsilva.github.io/
+  - name: Diretoria-Geral 
+    url: https://formiga.ifmg.edu.br/
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
-  - name: Elaine Belo Veloso Silva 
+  - name: Coordenadoria de Registro e Controle Acadêmico 
     url: https://formiga.ifmg.edu.br/
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
@@ -34,7 +34,7 @@ library(gganimate)
 library(showtext)
 
 # Ativando os dados
-load("tec_eletro.RData")
+load("tec_adm.RData")
 ```
 
 # 1. Notas sobre os Indicadores
@@ -80,11 +80,6 @@ dos alunos matriculados, concluintes, retidos e evadidos**, além das **taxas
 de retenção e evasão**, para cada um dos cursos técnicos integrados ofertados 
 atualmente pelo campus. 
 
-Nas próximas etapas pretende-se disponibilizar um aplicativo web para a 
-visualização dos dados e indicadores por turma de ingressantes de cada curso, 
-além de captar os efeitos da mudança de duração de 4 para 3 anos dos cursos 
-técnicos integrados.
-
 # 2.  Definição dos indicadores propostos:
 
 **Alunos Matriculados** = Total de alunos que se matricularam no ano letivo.
@@ -106,9 +101,10 @@ Iniciais no Ano Letivo}})*100$
 
 # 2. Alunos Matriculados
 
+
 ```{r, eval = TRUE, message = FALSE, warning = FALSE}
 
-p1 <- ggplot(data = eletro, aes(x = periodo_letivo, y = matriculas_iniciais, 
+p1 <- ggplot(data = adm, aes(x = periodo_letivo, y = matriculas_iniciais, 
              group = curso)) + geom_point() + geom_line() 
 
 p1 <- p1 + labs(title = "Evolução dos Alunos Matriculados") +
@@ -124,7 +120,7 @@ ggplotly(p1)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p2 <- ggplot(data = eletro, aes(x = periodo_letivo, y = concluintes, group = curso)) + geom_point() + geom_line() 
+p2 <- ggplot(data = adm, aes(x = periodo_letivo, y = concluintes, group = curso)) + geom_point() + geom_line() 
 
 p2 <- p2 + labs(title = "Evolução dos Alunos Concluintes") +
                   labs(x = " ", y = "Concluintes")
@@ -140,7 +136,7 @@ ggplotly(p2)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p3 <- ggplot(data = eletro, aes(x = periodo_letivo, y = retidos, group = curso)) + geom_point() + geom_line() 
+p3 <- ggplot(data = adm, aes(x = periodo_letivo, y = retidos, group = curso)) + geom_point() + geom_line() 
 
 p3 <- p3 + labs(title = "Evolução dos Alunos Retidos") +
                   labs(x = " ", y = "Alunos Retidos")
@@ -156,7 +152,7 @@ ggplotly(p3)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p4 <- ggplot(data = eletro, aes(x = periodo_letivo, y = taxa_retencao, group = curso)) + geom_point() + geom_line() 
+p4 <- ggplot(data = adm, aes(x = periodo_letivo, y = taxa_retencao, group = curso)) + geom_point() + geom_line() 
 
 p4 <- p4 + labs(title = " ") +
                   labs(x = " ", y = "Taxa de Retenção (em %)")
@@ -172,7 +168,7 @@ ggplotly(p4)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p5 <- ggplot(data = eletro, aes(x = periodo_letivo, y = evasao, group = curso)) + geom_point() + geom_line() 
+p5 <- ggplot(data = adm, aes(x = periodo_letivo, y = evasao, group = curso)) + geom_point() + geom_line() 
 
 p5 <- p5 + labs(title = "Evolução do Número de Evadidos do Curso") +
                   labs(x = " ", y = "Alunos Evadidos")
@@ -188,9 +184,9 @@ ggplotly(p5)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p6 <- ggplot(data = eletro, aes(x = periodo_letivo, y = taxa_evasao, group = curso)) + geom_point() + geom_line() 
+p6 <- ggplot(data = adm, aes(x = periodo_letivo, y = taxa_evasao, group = curso)) + geom_point() + geom_line() 
 
-p6 <- p6 + labs(title = "Técnico Integrado em Eletrotécnica") +
+p6 <- p6 + labs(title = "Técnico Integrado em Administração") +
                   labs(x = " ", y = "Taxa de Evasão (em %)")
 
 ggplotly(p6)
@@ -203,7 +199,7 @@ ggplotly(p6)
 # 7. Tabela
 
 ```{r, layout="l-body-outset", echo = FALSE}
-paged_table(eletro)
+paged_table(adm)
 ```
 **Fonte.:** Dados do Módulo Educacional/SISTEC 
 
