@@ -1,8 +1,8 @@
 ---
 title: "Sobre este blog"
 description: |
-  Blog criado e mantido pela Diretoria-Geral e pela Coordenadoria de 
-  Registro e Controle Academico do IFMG - Campus Formiga.
+  Blog criado e mantido pela Diretoria-Geral 
+  do [IFMG - Campus Formiga](https://formiga.ifmg.edu.br/).
 ---
 
 ```{r setup, include=FALSE}
