@@ -6,6 +6,7 @@ description: |
   campus.
 output_dir: "."
 navbar:
+  logo: images/logo.png
   right:
     - text: "Principal"
       href: index.html

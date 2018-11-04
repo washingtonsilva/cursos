@@ -12,6 +12,8 @@ author:
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
 date: "04-11-2018"
+categories: 
+ - Curso Técnico
 output: 
   radix::radix_article:
     toc: true
