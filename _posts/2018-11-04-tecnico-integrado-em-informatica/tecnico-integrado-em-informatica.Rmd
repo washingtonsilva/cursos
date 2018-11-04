@@ -2,6 +2,7 @@
 title: "Indicadores Educacionais: Curso Técnico Integrado em Informática"
 description: |
   Estatísticas educacionais do Curso Técnico Integrado em Informática
+preview: images/pre.png
 author:
   - name: Diretoria-Geral 
     url: https://formiga.ifmg.edu.br/
