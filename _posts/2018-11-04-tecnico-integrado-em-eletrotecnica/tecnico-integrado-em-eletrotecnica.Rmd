@@ -197,13 +197,6 @@ ggplotly(p6)
 
 **Obs.:** dados de janeiro à agosto para 2018 
 
-# 7. Tabela
 
-```{r, layout="l-body-outset", echo = FALSE}
-paged_table(eletro[,-1])
-```
-**Fonte.:** Dados do Módulo Educacional/SISTEC 
-
-**Obs.:** dados de janeiro à agosto para 2018 
 
 
