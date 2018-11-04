@@ -18,6 +18,4 @@ navbar:
       href: index.html
     - text: "Sobre o Blog"
       href: about.html
-    - icon: fa fa-rss
-      href: index.xml
 output: radix::radix_article
