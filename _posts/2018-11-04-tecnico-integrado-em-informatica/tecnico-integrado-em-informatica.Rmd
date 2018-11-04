@@ -200,7 +200,7 @@ ggplotly(p6)
 # 7. Tabela
 
 ```{r, layout="l-body-outset", echo = FALSE}
-paged_table(info)
+paged_table(info[,-1])
 ```
 **Fonte.:** Dados do Módulo Educacional/SISTEC 
 
