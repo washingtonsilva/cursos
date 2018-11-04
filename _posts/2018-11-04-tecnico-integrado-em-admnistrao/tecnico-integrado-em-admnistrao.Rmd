@@ -1,8 +1,7 @@
 ---
 title: "Indicadores Educacionais: Curso Técnico Integrado em Administração"
 description: |
-  Relatório com estatísticas educacionais de cursos ofertados pelo 
-  IFMG - Campus Formiga
+  Estatísticas educacionais do Curso Técnico Integrado em Administração
 author:
   - name: Diretoria-Geral 
     url: https://formiga.ifmg.edu.br/
