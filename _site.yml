@@ -4,7 +4,7 @@ description: |
   Bem vindo ao blog Estatíscas Educacionais do IFMG - Campus Formiga, aqui 
   são publicados relatórios e estatisticas sobre os cursos ofertados pelo 
   campus.
-base_url: https://formiga.ifmg.edu.br/
+base_url: https://washingtonsilva.github.io/
 output_dir: "."
 navbar:
   logo: images/logo.png
