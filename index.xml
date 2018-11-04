@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Estatisticas Educacionais do IFMG - Campus Formiga</title>
+    <link>https://formiga.ifmg.edu.br/</link>
+    <atom:link href="https://formiga.ifmg.edu.br/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Bem vindo ao blog EstatÃ­scas Educacionais do IFMG - Campus Formiga, aqui 
+sÃ£o publicados relatÃ³rios e estatisticas sobre os cursos ofertados pelo 
+campus.
+</description>
+    <generator>Radix</generator>
+    <lastBuildDate>qua, 11 abr 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Indicadores Educacionais: Curso Técnico Integrado em Administração</title>
+      <dc:creator>Diretoria-Geral</dc:creator>
+      <dc:creator>Coordenadoria de Registro e Controle Acadêmico</dc:creator>
+      <link>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-administracao</link>
+      <description>Estatisticas educacionais do Curso Técnico Integrado em Administração</description>
+      <guid>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-administracao</guid>
+      <pubDate>qua, 11 abr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indicadores Educacionais: Curso Técnico Integrado em Eletrotécnica</title>
+      <dc:creator>Diretoria-Geral</dc:creator>
+      <dc:creator>Coordenadoria de Registro e Controle Acadêmico</dc:creator>
+      <link>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-eletrotecnica</link>
+      <description>Estatísticas educacionais do Curso Técnico Integrado em Eletrotécnica</description>
+      <guid>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-eletrotecnica</guid>
+      <pubDate>qua, 11 abr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indicadores Educacionais: Curso Técnico Integrado em Informática</title>
+      <dc:creator>Diretoria-Geral</dc:creator>
+      <dc:creator>Coordenadoria de Registro e Controle Acadêmico</dc:creator>
+      <link>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-informatica</link>
+      <description>Estatísticas educacionais do Curso Técnico Integrado em Informática</description>
+      <guid>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-informatica</guid>
+      <pubDate>qua, 11 abr 2018 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

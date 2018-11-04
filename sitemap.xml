@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://formiga.ifmg.edu.br/about.html</loc>
+    <lastmod>2018-11-04T15:44:06-02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://formiga.ifmg.edu.br/</loc>
+    <lastmod>2018-11-03T14:17:10-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-administracao/</loc>
+    <lastmod>2018-11-04T19:32:34-02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-eletrotecnica/</loc>
+    <lastmod>2018-11-04T19:24:33-02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://formiga.ifmg.edu.br/posts/2018-11-04-tecnico-integrado-em-informatica/</loc>
+    <lastmod>2018-11-04T19:24:53-02:00</lastmod>
+  </url>
+</urlset>
