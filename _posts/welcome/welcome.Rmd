@@ -1,0 +1,27 @@
+---
+title: "Welcome to Estatíscas Educacionais"
+description: |
+  Bem vindo ao blog Estatíscas Educacionais do IFMG - Campus Formiga, aqui 
+  são publicados relatórios e estatisticas sobre os cursos ofertados pelo 
+  campus. 
+author:
+  - name: Washington Santos Silva
+    url: https://washingtonsilva.github.io/
+    affiliation: Spacely Sprockets
+    affiliation_url: https://formiga.ifmg.edu.br/
+date: 03-11-2018
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Radix at:
+# https://rstudio.github.io/radix/blog.html
+
+```
+
+
+

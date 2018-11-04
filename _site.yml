@@ -1,0 +1,14 @@
+name: "blogcursos"
+title: "Estatíscas Educacionais"
+description: |
+  Bem vindo ao blog Estatíscas Educacionais do IFMG - Campus Formiga, aqui 
+  são publicados relatórios e estatisticas sobre os cursos ofertados pelo 
+  campus.
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Principal"
+      href: index.html
+    - text: "Sobre o Blog"
+      href: about.html
+output: radix::radix_article

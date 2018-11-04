@@ -1,0 +1,10 @@
+---
+title: "Sobre este blog"
+description: |
+  Blog criado e mantido pela Diretoria-Geral e pela Coordenadoria de 
+  Registro e Controle Acadêmico do IFMG - Campus Formiga.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
