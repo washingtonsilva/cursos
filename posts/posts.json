@@ -103,5 +103,68 @@
     ],
     "preview": {},
     "last_modified": "2018-11-06T00:19:53-02:00"
+  },
+  {
+    "path": "posts/2018-11-06-tecnologia-em-gestao-financeira/",
+    "title": "Indicadores Educacionais: Superior de Tecnologia em Gestão Financeira",
+    "description": "Estatisticas educacionais do Superior de Tecnologia em Gestão Financeira",
+    "author": [
+      {
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
+      },
+      {
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
+        "url": "https://formiga.ifmg.edu.br/"
+      }
+    ],
+    "date": "2018-11-05",
+    "categories": [
+      "Graduação"
+    ],
+    "preview": {},
+    "last_modified": "2018-11-06T00:28:26-02:00"
+  },
+  {
+    "path": "posts/2018-11-06-bacharelado-em-computacao/",
+    "title": "Indicadores Educacionais: Bacharelado em Ciência da Computação",
+    "description": "Estatísticas educacionais do Bacharelado em Ciência da Computação",
+    "author": [
+      {
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
+      },
+      {
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
+        "url": "https://formiga.ifmg.edu.br/"
+      }
+    ],
+    "date": "2018-11-05",
+    "categories": [
+      "Graduação"
+    ],
+    "preview": {},
+    "last_modified": "2018-11-06T00:37:03-02:00"
+  },
+  {
+    "path": "posts/2018-11-06-licenciatura-em-matematica/",
+    "title": "Indicadores Educacionais: Licenciatura em Matemática",
+    "description": "Estatísticas educacionais da Licenciatura em Matemática",
+    "author": [
+      {
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
+      },
+      {
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
+        "url": "https://formiga.ifmg.edu.br/"
+      }
+    ],
+    "date": "2018-11-05",
+    "categories": [
+      "Graduação"
+    ],
+    "preview": {},
+    "last_modified": "2018-11-06T00:42:33-02:00"
   }
 ]
