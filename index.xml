@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>EstatÃ­sticas Educacionais do IFMG - Campus Formiga</title>
+    <title>Estatisticas Educacionais do IFMG - Campus Formiga</title>
     <link>https://washingtonsilva.github.io/</link>
     <atom:link href="https://washingtonsilva.github.io/index.xml" rel="self" type="application/rss+xml"/>
-    <description>Bem vindo ao blog EstatÃ­sticas Educacionais do IFMG - Campus Formiga, aqui 
-sÃ£o publicados relatÃ³rios e estatisticas sobre os cursos ofertados pelo 
+    <description>Bem vindo ao blog Estatísticas Educacionais do IFMG - Campus Formiga, aqui 
+são publicados relatórios e estatisticas sobre os cursos ofertados pelo 
 campus.
 </description>
     <generator>Radix</generator>
