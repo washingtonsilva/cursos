@@ -77,29 +77,25 @@ Diretoria-Geral desenvolvem um projeto que visa a produção de indicadores
 adaptados mas baseados nos mesmos dados e na mesma lógica conceitual dos 
 [indicadores de gestão da Rede Federal](http://sitesistec.mec.gov.br/images/arquivos/pdf/manual_de_indicadores_da_rfepct_2016.pdf).
 
-Nesta primeira etapa são disponibilizados **indicadores globais da evolução 
-dos alunos matriculados, concluintes, retidos e evadidos**, além das **taxas 
-de retenção e evasão**, para cada um dos cursos técnicos integrados ofertados 
-atualmente pelo campus. 
+Nesta primeira etapa são disponibilizados **indicadores globais da evolução dos alunos matriculados, concluintes, retidos e evadidos**, além da **taxa de evasão** e dos alunos que **trancaram matrícula**, para cada um dos cursos de graduação ofertados atualmente pelo campus. 
 
 # 2.  Definição dos indicadores propostos:
 
-**Alunos Matriculados** = Total de alunos que se matricularam no ano letivo.
+**Alunos Matriculados** = Total de alunos que se matricularam no semestre 
+                          letivo.
 
 **Alunos Concluintes** = Total de alunos que concluíram o curso.
 
-**Alunos Retidos** = Total de alunos reprovados ou que trancaram matrícula no 
-ano letivo.
+**Trancamento de Matrícula** = Alunos que trancaram matrícula no semestre letivo.
 
-**Taxa de Retenção** = $(\frac{\textrm{Alunos Retidos}}{\textrm{Matrículas 
-Iniciais no Período Letivo}})*100$	
+**Alunos Retidos** = Total de alunos matriculados após o término do ciclo das 
+turmas, isto é, total de alunos que não integralizaram o curso.
 
 **Alunos Evadidos** = Total de alunos em situações de transferência interna, 
-externa, evasão (não renovação de matrícula) e desligamento (desistência 
-formal) no ano letivo.	
+externa, evasão (não renovação de matrícula) e desligamento  
+(desistência formal) no ano letivo	
 
-**Taxa de Evasão** =  $(\frac{\textrm{Alunos Evadidos}}{\textrm{Matrículas 
-Iniciais no Ano Letivo}})*100$
+**Taxa de Evasão** =  $(\frac{\textrm{Alunos Evadidos}}{\textrm{Matrículas Iniciais no Semestre Letivo}})*100$
 
 # 3. Alunos Matriculados
 
