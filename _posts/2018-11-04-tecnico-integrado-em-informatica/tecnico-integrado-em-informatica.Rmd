@@ -14,7 +14,7 @@ author:
     affiliation: IFMG - Campus Formiga
     affiliation_url: https://formiga.ifmg.edu.br/
 categories: 
- - Curso Técnico
+  - Curso Técnico
 output: 
   radix::radix_article:
     toc: true
