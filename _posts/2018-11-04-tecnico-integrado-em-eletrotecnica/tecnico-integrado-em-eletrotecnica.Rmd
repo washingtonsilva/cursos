@@ -1,7 +1,7 @@
 ---
-title: "Indicadores Educacionais: Curso Técnico Integrado em Informática"
+title: "Indicadores Educacionais: Curso Técnico Integrado em Eletrotécnica"
 description: |
-  Estatísticas educacionais do Curso Técnico Integrado em Informática
+  Estatísticas educacionais do Curso Técnico Integrado em Eletrotécnica
 date: November 5, 2018
 preview: images/pre.png
 author:
@@ -105,7 +105,7 @@ Iniciais no Ano Letivo}})*100$
 
 ```{r, eval = TRUE, message = FALSE, warning = FALSE, preview = TRUE}
 
-p1 <- ggplot(data = eletro, aes(x = periodo_letivo, y = matriculas_iniciais, 
+p1 <- ggplot(data = info, aes(x = periodo_letivo, y = matriculas_iniciais, 
              group = curso)) + geom_point() + geom_line() 
 
 p1 <- p1 + labs(title = "Evolução dos Alunos Matriculados") +
@@ -121,7 +121,7 @@ ggplotly(p1)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p2 <- ggplot(data = eletro, aes(x = periodo_letivo, y = concluintes, group = curso)) + geom_point() + geom_line() 
+p2 <- ggplot(data = info, aes(x = periodo_letivo, y = concluintes, group = curso)) + geom_point() + geom_line() 
 
 p2 <- p2 + labs(title = "Evolução dos Alunos Concluintes") +
                   labs(x = " ", y = "Concluintes")
@@ -137,7 +137,7 @@ ggplotly(p2)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p3 <- ggplot(data = eletro, aes(x = periodo_letivo, y = retidos, group = curso)) + geom_point() + geom_line() 
+p3 <- ggplot(data = info, aes(x = periodo_letivo, y = retidos, group = curso)) + geom_point() + geom_line() 
 
 p3 <- p3 + labs(title = "Evolução dos Alunos Retidos") +
                   labs(x = " ", y = "Alunos Retidos")
@@ -153,7 +153,7 @@ ggplotly(p3)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p4 <- ggplot(data = eletro, aes(x = periodo_letivo, y = taxa_retencao, group = curso)) + geom_point() + geom_line() 
+p4 <- ggplot(data = info, aes(x = periodo_letivo, y = taxa_retencao, group = curso)) + geom_point() + geom_line() 
 
 p4 <- p4 + labs(title = " ") +
                   labs(x = " ", y = "Taxa de Retenção (em %)")
@@ -169,7 +169,7 @@ ggplotly(p4)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p5 <- ggplot(data = eletro, aes(x = periodo_letivo, y = evasao, group = curso)) + geom_point() + geom_line() 
+p5 <- ggplot(data = info, aes(x = periodo_letivo, y = evasao, group = curso)) + geom_point() + geom_line() 
 
 p5 <- p5 + labs(title = "Evolução do Número de Evadidos do Curso") +
                   labs(x = " ", y = "Alunos Evadidos")
@@ -185,9 +185,9 @@ ggplotly(p5)
 
 ```{r, eval = TRUE, echo = FALSE, message = FALSE, warning = FALSE}
 
-p6 <- ggplot(data = eletro, aes(x = periodo_letivo, y = taxa_evasao, group = curso)) + geom_point() + geom_line() 
+p6 <- ggplot(data = info, aes(x = periodo_letivo, y = taxa_evasao, group = curso)) + geom_point() + geom_line() 
 
-p6 <- p6 + labs(title = "Técnico Integrado em Eletrotécnica") +
+p6 <- p6 + labs(title = "Técnico Integrado em Informática") +
                   labs(x = " ", y = "Taxa de Evasão (em %)")
 
 ggplotly(p6)

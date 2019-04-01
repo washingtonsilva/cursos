@@ -22,27 +22,6 @@
   },
   {
     "path": "posts/2018-11-04-tecnico-integrado-em-eletrotecnica/",
-    "title": "Indicadores Educacionais: Curso Técnico Integrado em Informática",
-    "description": "Estatísticas educacionais do Curso Técnico Integrado em Informática",
-    "author": [
-      {
-        "name": "Diretoria-Geral",
-        "url": "https://formiga.ifmg.edu.br/"
-      },
-      {
-        "name": "Coordenadoria de Registro e Controle Acadêmico",
-        "url": "https://formiga.ifmg.edu.br/"
-      }
-    ],
-    "date": "2018-11-05",
-    "categories": [
-      "Tecnico"
-    ],
-    "preview": {},
-    "last_modified": "2019-04-01T10:43:31-03:00"
-  },
-  {
-    "path": "posts/2018-11-04-tecnico-integrado-em-informatica/",
     "title": "Indicadores Educacionais: Curso Técnico Integrado em Eletrotécnica",
     "description": "Estatísticas educacionais do Curso Técnico Integrado em Eletrotécnica",
     "author": [
@@ -60,7 +39,28 @@
       "Tecnico"
     ],
     "preview": {},
-    "last_modified": "2019-04-01T10:42:19-03:00"
+    "last_modified": "2019-04-01T14:28:17-03:00"
+  },
+  {
+    "path": "posts/2018-11-04-tecnico-integrado-em-informatica/",
+    "title": "Indicadores Educacionais: Curso Técnico Integrado em Informática",
+    "description": "Estatísticas educacionais do Curso Técnico Integrado em Informática",
+    "author": [
+      {
+        "name": "Diretoria-Geral",
+        "url": "https://formiga.ifmg.edu.br/"
+      },
+      {
+        "name": "Coordenadoria de Registro e Controle Acadêmico",
+        "url": "https://formiga.ifmg.edu.br/"
+      }
+    ],
+    "date": "2018-11-05",
+    "categories": [
+      "Tecnico"
+    ],
+    "preview": {},
+    "last_modified": "2019-04-01T14:21:40-03:00"
   },
   {
     "path": "posts/2018-11-05-bacharelado-em-engenharia-eletrica/",
