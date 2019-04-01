@@ -1,7 +1,7 @@
 ---
-title: "Indicadores Educacionais: Curso Técnico Integrado em Informática"
+title: "Indicadores Educacionais: Curso Técnico Integrado em Eletrotécnica"
 description: |
-  Estatísticas educacionais do Curso Técnico Integrado em Informática
+  Estatísticas educacionais do Curso Técnico Integrado em Eletrotécnica
 date: November 5, 2018
 preview: images/pre.png
 author:
